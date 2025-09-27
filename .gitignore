@@ -1,4 +1,7 @@
+.vs/
+*.vsidx
 # Prerequisites
+
 *.d
 
 # Compiled Object files
